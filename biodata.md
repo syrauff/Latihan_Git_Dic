@@ -27,7 +27,7 @@
    Alamat : Jln. Mangkupalas RT.07 No.12
  
 5. Nama   : Rifqi Permana
-   NIM    : H2020000005
+   NIM    : H20200000054
    JK     : Laki - Laki
    Agama  : Islam
    TTL    : Ambon, 19 Agustus 2003
